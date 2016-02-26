@@ -1,0 +1,172 @@
+@import url(https://fonts.googleapis.com/css?family=Hanuman:400,700);
+@import url(https://fonts.googleapis.com/css?family=Khmer);
+
+/*  #topMenu1 li:nth-child(1) a {
+	background: #1975A3;
+}
+#topMenu1 li:nth-child(2) a {
+	background: #338533;
+}
+#topMenu1 li:nth-child(3) a {
+	background:#B84DDB;
+}
+#topMenu1 li:nth-child(4) a {
+	background: #CCA300;
+}
+#topMenu1 li:nth-child(5) a {
+	background: black;
+}
+#topMenu1 li:nth-child(6) a {
+	background: white;
+	color: black;
+}
+#topMenu1 li:nth-child(7) a {
+	background: white;
+	color: lightblue;
+}
+
+
+.classon{
+	border-bottom: 3px solid #52CC52;
+}
+
+#topMenu1 li a{
+	//border: 1px solid #00293D;
+	//background-color: #1975A3;
+	margin-right: 2px;
+	color:white;
+}
+#topMenu1 li a:link{
+	//border-bottom: 3px solid red;
+} */
+#Contentdetail{
+	background-color: #fff;
+	color:#222;
+	float: left;
+
+}
+#mysidebar{
+	clear: both;
+	float:right;
+}
+	#mysidebar img{
+		margin-bottom: 5px;
+	}
+
+.showImage {
+	height: 100px;
+	width: 180px;
+}
+
+#mysidebar1{
+	clear: both;
+	float:right;
+}
+
+ul.multidrop a {
+       color: #fff;
+       text-decoration: none;
+  
+     }
+     ul.multidrop {
+       padding: 0;
+       margin: 0;
+       background: #000;
+       float: left;
+     }
+     ul.multidrop ul {
+       padding: 0;
+       margin: 0;
+       background: #000;
+       float: left;
+     }
+     ul.multidrop li {
+       padding: 5px;
+       float: left;
+       display: inline;
+       position: relative;
+       width: 150px;
+       list-style: none;
+       cursor: pointer;
+     }
+       ul.multidrop li:hover {
+       background: red;
+     }
+     ul.multidrop ul {
+       position: absolute;
+       left: 0;
+       top: 100%;
+       background: red;
+       display: none;
+     }
+     ul.multidrop ul ul {
+       left: 100%;
+       top: 0;
+       background: #000;
+     }
+     ul.multidrop li:hover > ul {
+       display: block;
+       background: red;
+     }
+     ul.multidrop li ul li:hover {
+       background: #000;
+     }
+
+/* index post file */
+.feature-2{
+    height: 380px;
+    position: relative;
+}
+
+.feature-2 img{
+    height: 70%;
+    width: 100%;
+}
+	
+.feature-2 h5 {
+    font-weight: 700;
+    font-family: 'Khmer'; 
+    line-height: 180%;
+    color:#0066FF;
+}
+
+.feature-2 p,li {
+    font-weight: 400;
+    font-family: 'Hanuman'; 
+    float: left;
+    left:0;
+    bottom:0;
+}
+.feature-2 #btnRead{
+    position: absolute;
+    right:    0;
+    bottom:   0;
+}
+#date_color{
+    color:#B56C47;
+}
+
+/* in post detail */
+.post-content h3{
+    font-family: 'Khmer';
+    line-height: 180%;
+}
+
+.post-content p{
+    font-family: 'Hanuman';
+    line-height: 170%;
+}
+
+/* header file */
+
+/**
+ * Cusotme CSS by Ulvy
+ */
+
+.size100 {
+  width: 100px;
+  height: 100px;
+}
+
+
+

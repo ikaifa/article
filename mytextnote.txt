@@ -1,0 +1,4 @@
+config in file:
+1: config.php
+2: note.js (URL)
+3: Views.php(URL)
